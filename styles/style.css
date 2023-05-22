@@ -117,3 +117,8 @@ body{
         width: auto;
     }
 }
+
+.imagem_amorgan {
+    width: 50%;
+    border: 2px solid var(--cor-terciaria);
+}
